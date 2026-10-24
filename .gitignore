@@ -1,0 +1,5 @@
+/build/
+/.local_artifacts/
+*.o
+*.nsys-rep
+*.sqlite
